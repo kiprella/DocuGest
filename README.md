@@ -1,4 +1,3 @@
-# DocuGest
 # DocuDigest
 
 DocuDigest - one page website for document summarization and 100% free. Upload your PDF, DOCX, or TXT files and receive  high-quality AI-generated summaries in couple seconds!
