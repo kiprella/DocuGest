@@ -4,7 +4,7 @@ DocuDigest - one page website for document summarization and 100% free. Upload y
 
 ## Features
 - **File Upload & Preview:** Drag-and-drop or browse to upload PDF, DOCX, or TXT files. Clean, modern UI with clear 
-- **AI Summarization:** Uses Cohere's advanced AI to generate concise, readable summaries of your documents.
+- **AI Summarization:** Uses Cohere's freeAI API to generate concise, readable summaries of your documents.
 
 ## Tech Stack
 - **Frontend:** Next.js (App Router), React, Tailwind CSS
